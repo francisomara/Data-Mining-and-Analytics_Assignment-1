@@ -45,7 +45,7 @@ jupyter notebook
 The notebooks document the data preparation, exploratory analysis, model development, evaluation and interpretation processes.
 The project uses Python and Scikit-learn to support reproducibility of the machine learning workflows.
 7. Author
-Name: Racheal Auma
+Francis OMARA
 Course: DSC8307 – Data Mining, Modeling and Analytics
 Institution: Uganda Christian University
 Semester: Advent 2026
